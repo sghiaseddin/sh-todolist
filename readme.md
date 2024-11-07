@@ -21,7 +21,8 @@ A simple and customizable to-do list plugin for WordPress. This plugin allows us
      ```bash
      git clone https://github.com/sghiaseddin/swift-todolist.git
      ```
-   - Activate the plugin from the WordPress admin panel.
+   - Activate the plugin from the WordPress admin panel, search: swift todolist
+   - Download and install from wordpress repository: [Swift Todolist](https://wordpress.org/plugins/swift-todolist/)
 
 ## Usage
 

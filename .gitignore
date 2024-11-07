@@ -3,6 +3,8 @@
 
 # Ignore node_modules directory
 node_modules/
+on-wordpress-repo/
+design/
 
 # Ignore log files
 *.log

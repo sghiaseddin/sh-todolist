@@ -48,4 +48,3 @@ class SWIFT_TodoList_Activator {
         }
     }
 }
-?>

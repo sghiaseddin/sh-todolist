@@ -4,7 +4,7 @@ Donate link: https://sghiaseddin.com
 Tags: todo, tasks, task management, woocommerce, shortcode
 Requires at least: 5.0
 Tested up to: 6.6
-Stable tag: 0.1.2
+Stable tag: 0.1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,7 +49,12 @@ Yes, the plugin uses WooCommerce to ensure that tasks are linked to users who ar
 
 This plugin, all included libraries, and any other included assets are licensed as GPL or are under a GPL-compatible license.
 
+Logo: Swift by Pixel Icons on IconScout
+
 == Changelog ==
+
+= 0.1.3 =
+* bug fixed
 
 = 0.1.2 =
 * fixed issues with escaping functions
@@ -64,3 +69,9 @@ This plugin, all included libraries, and any other included assets are licensed 
 == Author ==
 
 Created by Shayan Ghiaseddin. For more information, visit [sghiaseddin.com](https://sghiaseddin.com).
+
+== Screenshots ==
+
+1-Minimal and nice user interface
+2-Easily edit your tasks
+3-View details on each task

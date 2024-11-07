@@ -79,7 +79,7 @@ jQuery(document).ready(function($) {
                     newTaskItem.find('.swift-task-title').text(newTitle);
                     newTaskItem.find('.swift-task-desc').text(shortenDescription(newDesc)).data('full-desc', newDesc);
                     newTaskItem.find('.swift-task-actions').html(`
-                        <a href="`+swiftTodoList.swiftTodolistBase+`/?action=view&id=`+response.data.task_id+`" title="View Task" class="view-task"><span class="dashicons dashicons-info-outline"></span></a>
+                        <a href="`+swiftTodoList.swiftTodolistBase+`/?task_action=view&id=`+response.data.task_id+`" title="View Task" class="view-task"><span class="dashicons dashicons-info-outline"></span></a>
                         <a href="#" title="Edit Task" class="edit-task">
                             <span class="dashicons dashicons-edit-large"></span>
                         </a>
